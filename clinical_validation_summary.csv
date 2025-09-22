@@ -1,0 +1,3 @@
+Model,CV Accuracy,CV Precision,CV Recall,CV F1-Score,Training Time (s)
+random_forest,0.708 ± 0.020,0.711 ± 0.018,0.708 ± 0.020,0.707 ± 0.020,1.14 ± 0.17
+xgboost,0.670 ± 0.032,0.671 ± 0.032,0.670 ± 0.032,0.669 ± 0.033,1.23 ± 0.30
